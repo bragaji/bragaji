@@ -1,15 +1,64 @@
-** Pursuing Master of Science in Information Systems at Syracuse University (GPA: 3.7), with expertise in data analytics, cloud management, and project management.
-** Worked as a Project Coordinator Intern at SkyIT, streamlining onboarding processes and improving team productivity by 20%.
-** Enhanced software reliability as a Quality Assurance Engineer at Talentica Software by leading automation initiatives and reducing testing cycles by 40%.
-** Optimized data management as an Automation Engineer at SelfMade Software using Python-based automation frameworks and SQL-driven ETL processes.
-** Technical skills include Python, R, SQL, Selenium, Tableau, Power BI, Azure, and AWS.
-** Developed a predictive analytics model for Medicare engagement, boosting member engagement and revenue by 15%.
-** Built an ML-driven energy forecasting solution, enhancing accuracy and preventing grid overloads.
-** Designed a cloud-enabled housing management system, improving operational efficiency by 25%.
-** Proficient in Agile methodology, cross-functional collaboration, and automation testing.
-** Passionate about delivering data-driven solutions and solving complex technical problems.
+# 👋 Hi there, I'm Prashant Gautam
 
-<!---
-bragaji/bragaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Master's in Information Systems @ Syracuse University (May 2025)  
+🧪 QA Automation Engineer | 4+ years of experience | ISTQB Certified  
+🌐 Passionate about Automation, API Testing, CI/CD, and Scalable Test Frameworks
+
+---
+
+## 🔍 About Me
+
+I'm a result-driven QA/SDET professional with 4+ years of experience in ensuring software quality across web, mobile, and API platforms. I specialize in creating robust automation frameworks, reducing manual testing efforts, and accelerating release cycles.
+
+Currently, I’m enhancing my skills in advanced automation, cloud testing, and backend validation while exploring hands-on projects with tools like Selenium, Cypress, REST-assured, Jenkins, Docker, and more.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+`Python` | `JavaScript` | `Java` | `SQL` | `C#`
+
+**Automation & Testing:**  
+`Selenium` | `Cypress` | `Playwright` | `REST-assured` | `Postman` | `PyTest` | `TestNG` | `JMeter`
+
+**DevOps & CI/CD:**  
+`Jenkins` | `GitHub Actions` | `GitLab CI` | `Azure DevOps` | `Docker`
+
+**Cloud & Tools:**  
+`AWS` | `Azure` | `GCP` | `Firebase` | `Jira` | `QASE` | `TestRail` | `Confluence`
+
+**Methodologies:**  
+`Agile` | `Scrum` | `BDD` | `POM` | `STLC` | `SDLC`
+
+---
+
+## 🚀 Featured Projects
+
+- **🔧 Selenium-Python Automation Framework** – Scalable test suite with POM, PyTest, and Allure reporting.  
+- **📡 API Automation Suite** – REST-assured and Postman-based framework for validating microservices.  
+- **📱 Mobile App QA** – End-to-end testing of mobile apps with 90% bug resolution pre-release.  
+- **📊 ETL/Backend Validation Tool** – SQL and Python scripts for data pipeline validation and reporting.
+
+*(More coming soon!)*
+
+---
+
+## 📈 Currently Learning
+
+- Cloud-based testing using AWS Device Farm  
+- Performance testing with JMeter and k6  
+- Building CI/CD pipelines from scratch  
+- Advanced GitHub Actions & workflow automation
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/gautam-prashant)
+- 📧 psprasha50@gmail.com
+
+---
+
+⭐ *Feel free to explore my repositories, fork, and collaborate. I'm always open to learning and building together!*
+
