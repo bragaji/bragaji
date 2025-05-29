@@ -17,7 +17,7 @@ Currently, I’m enhancing my skills in advanced automation, cloud testing, and 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Python` | `JavaScript` | `Java` | `SQL` | `C#`
+`Python` | `JavaScript` | `Java` | `SQL` | `C#`| `RestAssured`
 
 **Automation & Testing:**  
 `Selenium` | `Cypress` | `Playwright` | `REST-assured` | `Postman` | `PyTest` | `TestNG` | `JMeter`
